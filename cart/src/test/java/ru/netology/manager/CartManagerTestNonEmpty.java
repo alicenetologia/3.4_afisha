@@ -2,6 +2,7 @@ package ru.netology.manager;
 
 import org.junit.jupiter.api.Test;
 import ru.netology.domain.PurchaseItem;
+import ru.netology.manager.CartManager;
 
 import static org.junit.jupiter.api.Assertions.*;
 
