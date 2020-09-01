@@ -14,4 +14,7 @@ public class PurchaseItem {
     private String name;
     private String genre;
     private int ageLimit;
+
+    public PurchaseItem(int i, int i1, String first, int i2, int i3) {
+    }
 }
