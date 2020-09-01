@@ -37,3 +37,5 @@ public class MovieManager {
         }
         return result;
     }
+}
+
